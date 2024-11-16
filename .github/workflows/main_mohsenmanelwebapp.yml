@@ -50,7 +50,7 @@ jobs:
       # Étape 7 : Construire l'image Docker
       - name: Build Docker image
         run: |
-          docker build -t trabelsihammamimanel/calculate-product:latest .
+          docker build -t trabelsihammamimanel/calculate-product:latest
 
       # Étape 8 : Pousser l'image Docker
       - name: Push Docker image
