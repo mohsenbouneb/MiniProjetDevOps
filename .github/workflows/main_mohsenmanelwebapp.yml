@@ -55,7 +55,8 @@ jobs:
       # Étape 8 : Pousser l'image Docker
       - name: Push Docker image
         run: |
-          docker push mon-docker-repo/calculate-product:latest
+          docker push trabelsihammamimanel/calculate-product:latest
+
 
       # Étape 9 : Déploiement sur Azure Web App
       - name: Log in to Azure
