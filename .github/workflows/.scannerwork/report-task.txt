@@ -1,0 +1,6 @@
+projectKey=MiniProjetDevOps
+serverUrl=http://localhost:9080
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9080/dashboard?id=MiniProjetDevOps
+ceTaskId=aba4e086-5890-4fa2-b639-f54b7a9d2a98
+ceTaskUrl=http://localhost:9080/api/ce/task?id=aba4e086-5890-4fa2-b639-f54b7a9d2a98
